@@ -1,5 +1,5 @@
 # pywalletBuzio
-Branching of the Jackjack's Pywallet.py
+Pywallet.py branch of Jackjack
 
 I had the problem of recovering the bitcoins of a Bitcoin-QT wallet encrypted by a password 
 and the original version of pywallet.py of jackjack didn't work (I don't know why).
